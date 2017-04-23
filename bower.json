@@ -24,7 +24,7 @@
     "homepage": "http://www.jquery-bootgrid.com",
     "repository": {
         "type": "git",
-        "url": "git://github.com/rstaib/jquery-bootgrid.git"
+        "url": "https://github.com/bastienff/jquery-bootgrid.git"
     },
     "license": "MIT",
     "main": [
