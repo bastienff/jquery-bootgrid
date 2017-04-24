@@ -129,7 +129,8 @@ module.exports = function (grunt)
                     jQuery: true,
                     $: true,
                     console: true
-                }
+                },
+                reporterOutput: ''
             },
             files: ['<%= folders.dist %>/<%= pkg.namespace %>.js'],
             test: {
